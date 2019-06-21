@@ -8,4 +8,4 @@ To get started, download the ZIP of this repository as the base for your bot. Yo
 
 ## Contributing
 
-I'm not really looking for external contributions on this project as it is my personal template for Discord bots. That said, if you have anything interesting to propose, feel free to reach out to `kindly#0001` on the support server of my Quarko bot ([invite](https://discord.gg/wmA6Bzf)).
+I'm not really looking for external contributions on this project as it is my personal template for Discord bots. That said, if you have anything interesting to propose, feel free to reach out to `kindly#0001` on the support server of my Quarko bot ([invite](https://discord.gg/f4f9EpY)).
