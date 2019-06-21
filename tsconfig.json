@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ES2018",
+        "module": "commonjs",
+        "allowJs": true,
+        "outDir": "./dist/",
+        "rootDir": "./src/",
+        "strict": true,
+        "noImplicitAny": false,
+        "baseUrl": ".",
+        "paths": {
+            "src": ["sr"],
+            "src/*": ["src/*"]
+        },
+        "types": ["node"],
+        "esModuleInterop": true,
+        "plugins": [{ "transform": "@zerollup/ts-transform-paths" }]
+    },
+    "exclude": ["node_modules", "dist", "docs"]
+}
